@@ -1,1 +1,1 @@
-Kummpulan beberapa problem solving dengan Python
+Kumpulan beberapa problem solving dengan Python
