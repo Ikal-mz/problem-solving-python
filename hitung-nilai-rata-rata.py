@@ -32,7 +32,7 @@ else:
     for n in nilai_siswa:
         if n > rata_rata:
             jumlah_diatas_rata += 1
-    ---------------------------------------------------------------------
+    --------------------------------------------------------------------
     untuk bentuk simpel dari mencari jumlah di atas rata-rata gunakan ini
     ---------------------------------------------------------------------
     jumlah_diatas_rata = sum(1 for n in nilai_siswa if n > rata_rata)
